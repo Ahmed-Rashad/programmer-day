@@ -1,0 +1,12 @@
+{
+  "name": "programmer-day",
+  "version": "1.0.0",
+  "description": "The solution for the programmer day problem for itworx ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
